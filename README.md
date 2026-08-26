@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi there, I'm Etka Komuscu!
+I'm currently in my 3rd year in Wright State University majoring in Cybersecurity & IT.
 
 <!--
 **ekomuscu/ekomuscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
