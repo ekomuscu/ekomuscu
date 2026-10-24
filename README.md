@@ -1,5 +1,9 @@
 ## 👋 Hi there, I'm Etka Komuscu!
-I'm currently in my 3rd year in Wright State University majoring in Cybersecurity & IT.
+I'm a cybersecurity student at Wright State University with an A.A.S. in Cybersecurity from Columbus State Community
+College. 
+I have hands-on academic experience with Linux, Windows Server, Active Directory, PowerShell, vulnerability
+scanning, and virtualization. Experienced in building virtual enterprise environments, automating cybersecurity
+tasks, and ensuring secure infrastructure compliance
 
 <!--
 **ekomuscu/ekomuscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
